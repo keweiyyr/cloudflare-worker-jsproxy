@@ -1,1 +1,0 @@
-https://github.com/EtherDream/jsproxy/tree/gh-pages
